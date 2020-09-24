@@ -90,7 +90,7 @@ icdot-C53.9	cervix uteri	UBERON:0000002	uterine cervix	6728.375
 icdot-C49.9	connective and soft tissue	UBERON:0002384	connective tissue	-810.365358808578	UBERON:0002222	perichondrium
 icdot-C71.0	cerebrum	UBERON:0001869	cerebral hemisphere	5382.7		
 icdot-C34.9	lung and bronchus	UBERON:0002048	lung	99.4680188751884		
-icdot-C57.9	other female genital	UBERON:3011048	genital system	197.726222755931		
+icdot-C57.9	other female genital	UBERON:0000474	female reproductive system	197.726222755931		
 icdot-C40.0	bones and joints	UBERON:0004765	skeletal element	-44.2221854564047	UBERON:0001474	bone element
 icdot-C18.9	large intestine, excl. rectum and rectosigmoid junction	UBERON:0001155	colon	1065.88118811881		
 icdot-C47.9	peripheral nervs incl. Autonomous	UBERON:0001780	spinal nerve	143.730307076101		
