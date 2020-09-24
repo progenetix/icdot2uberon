@@ -1,0 +1,16 @@
+icdot-C16.8	Overlapping lesion of stomach	overlapping lesion of stomach
+icdot-C71	Brain	brain
+icdot-C13	Hypopharynx	hypopharynx
+icdot-C65	Renal pelvis	renal pelvis
+icdot-C02.9	Tongue, NOS	tongue
+icdot-C22.9	liver	liver
+icdot-C17.0	Duodenum	duodenum
+icdot-C42.15	Bone marrow	bone marrow
+icdot-C47.4	autonomic nervous system	autonomic nervous system
+icdot-C38.3	Mediastinum, NOS	mediastinum
+icdot-C25.3	Pancreatic duct	pancreatic duct
+icdot-C69.6	Orbit, NOS	orbit
+icdot-C18.1	Appendix	appendix
+icdot-C22.9	Liver and intrahepatic bile ducts	liver and intrahepatic bile ducts
+icdot-C13.1	Hypopharyngeal aspect of aryepiglottic fold	hypopharyngeal aspect of aryepiglottic fold
+icdot-C24.1	Ampulla of Vater	ampulla of vater

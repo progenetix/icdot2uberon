@@ -19,7 +19,7 @@ specWord = ['left','right','proxim', 'distal', 'dorsal', 'later',
 
 icdot2map = []
 icdot2map_label = []
-with open('icdotmap.txt') as f:
+with open('icdotmap_20200924.txt') as f:
     for l in f:
         col = l.strip().split('\t')
         col[-1] = col[-1].replace('overlapping lesion of ','')

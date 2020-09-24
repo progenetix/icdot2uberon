@@ -190,3 +190,19 @@ icdot-C26.0	Intestinal tract	UBERON:0000160	intestine	71.5477385437032
 icdot-C70.9	Meninges	UBERON:0010743	meningeal cluster	978.672727272727		
 icdot-C40.1 	Short bones of upper limb and associated joints	UBERON:0013630	short bone	3990.23447645665		
 icdot-C41.4	Pelvic bones, sacrum, coccyx and associated joints	UBERON:0001270	bony pelvis	3308.5091889477	UBERON:0001350	coccyx
+icdot-C16.8	Overlapping lesion of stomach	UBERON:0000945	stomach	1000		
+icdot-C71	Brain	UBERON:0000955	brain	1000		
+icdot-C13	Hypopharynx	UBERON:0001051	hypopharynx	1000		
+icdot-C65	Renal pelvis	UBERON:0001224	renal pelvis	1000		
+icdot-C02.9	Tongue, NOS	UBERON:0001723	tongue	1000		
+icdot-C22.9	liver	UBERON:0002107	liver	1000		
+icdot-C17.0	Duodenum	UBERON:0002114	duodenum	1000		
+icdot-C42.15	Bone marrow	UBERON:0002371	bone marrow	1000		
+icdot-C47.4	autonomic nervous system	UBERON:0002410	autonomic nervous system	1000		
+icdot-C38.3	Mediastinum, NOS	UBERON:0003728	mediastinum	1000		
+icdot-C25.3	Pancreatic duct	UBERON:0007329	pancreatic duct	1000		
+icdot-C69.6	Orbit, NOS	UBERON:0001697	orbit of skull	127.046409636676	UBERON:3010131	orbital cartilages
+icdot-C18.1	Appendix	UBERON:0001154	vermiform appendix	557.621745231537	UBERON:0004989	mucosa of appendix
+icdot-C22.9	Liver and intrahepatic bile ducts	UBERON:0003704	intrahepatic bile duct	4093.70284736139		
+icdot-C13.1	Hypopharyngeal aspect of aryepiglottic fold	UBERON:0014385	aryepiglottic fold	5804.32131147541		
+icdot-C24.1	Ampulla of Vater	UBERON:0004913	hepatopancreatic ampulla	7823.375		
