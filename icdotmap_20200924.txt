@@ -14,3 +14,6 @@ icdot-C18.1	Appendix	appendix
 icdot-C22.9	Liver and intrahepatic bile ducts	liver and intrahepatic bile ducts
 icdot-C13.1	Hypopharyngeal aspect of aryepiglottic fold	hypopharyngeal aspect of aryepiglottic fold
 icdot-C24.1	Ampulla of Vater	ampulla of vater
+icdot-C50.8	Overlapping lesion of breast	overlapping lesion of breast
+icdot-C25.8	Overlapping lesion of pancreas	overlapping lesion of pancreas
+icdot-C71.8	Overlapping lesion of brain	overlapping lesion of brain

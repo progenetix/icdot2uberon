@@ -206,3 +206,6 @@ icdot-C18.1	Appendix	UBERON:0001154	vermiform appendix	557.621745231537	UBERON:0
 icdot-C22.9	Liver and intrahepatic bile ducts	UBERON:0003704	intrahepatic bile duct	4093.70284736139		
 icdot-C13.1	Hypopharyngeal aspect of aryepiglottic fold	UBERON:0014385	aryepiglottic fold	5804.32131147541		
 icdot-C24.1	Ampulla of Vater	UBERON:0004913	hepatopancreatic ampulla	7823.375		
+icdot-C50.8	Overlapping lesion of breast	UBERON:0000310	breast	1000		
+icdot-C25.8	Overlapping lesion of pancreas	UBERON:0001264	pancreas	1000		
+icdot-C71.8	Overlapping lesion of brain	UBERON:0000955	brain	1000		
